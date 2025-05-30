@@ -1,0 +1,7 @@
+fastapi
+httpx
+python-dotenv
+python-jose
+python-multipart
+redis
+uvicorn
