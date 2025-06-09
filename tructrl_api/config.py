@@ -19,4 +19,17 @@ class Config(BaseModel):
     host: str = os.getenv("HOST", "0.0.0.0")
     port: int = int(os.getenv("PORT", 8000))
 
+    # Database
+    db_type: str = os.getenv("DB_TYPE", "sqlite")
+    db_name: str = os.getenv("DB_NAME", "tructrl.db")
+    db_user: str = os.getenv("DB_USER", "")
+    db_password: str = os.getenv("DB_PASSWORD", "")
+    db_host: str = os.getenv("DB_HOST", "")
+    db_port: str = os.getenv("DB_PORT", "")
+    db_path: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), db_name)
+    sqlalchemy_database_url: str = (
+        f"sqlite:///{db_path}" if db_type == "sqlite" else
+        f"{db_type}://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
+    )
+
 config = Config()
