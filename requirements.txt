@@ -1,6 +1,10 @@
+passlib[bcrypt]
 fastapi
 httpx
+pydantic
+pydantic[email]
 python-dotenv
 python-jose
 python-multipart
+sqlmodel
 uvicorn
