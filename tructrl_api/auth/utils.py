@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from jose import jwt
-from config import config
+from ..config import config
 from .constants import TOKEN_TYPE_REFRESH
 
 # --- In-memory store for refresh tokens ---

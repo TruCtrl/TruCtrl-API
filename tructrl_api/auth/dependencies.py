@@ -2,14 +2,13 @@ from fastapi import Depends, HTTPException
 from jose import JWTError, jwt
 from .models import TokenData
 from .constants import ERROR_INVALID_CREDENTIALS
-from config import config
+from ..config import config
+from ..users.crud import get_user_by_username
+
 
 from fastapi.security import OAuth2PasswordBearer
-
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
 
-# This import should be replaced with a real user DB in production
-from main import fake_users_db
 
 def get_current_user(token: str = Depends(oauth2_scheme)):
     credentials_exception = HTTPException(
@@ -25,7 +24,7 @@ def get_current_user(token: str = Depends(oauth2_scheme)):
         token_data = TokenData(username=username)
     except JWTError:
         raise credentials_exception
-    user = fake_users_db.get(token_data.username)
+    user = get_user_by_username(token_data.username)
     if user is None:
         raise credentials_exception
     return user
