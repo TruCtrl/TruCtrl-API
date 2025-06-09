@@ -1,16 +1,18 @@
-# SPDX-FileCopyrightText: 2025 McGuire Technology, LLC and TruCtrl Contributors
-# SPDX-License-Identifier: MIT
-#
-# SPDX-FileComment: This file is the main entry point for the TruCtrl-API FastAPI application.
-# It sets up the FastAPI app, configures logging, and includes the main API router.
-# All global exception handling and application-level configuration is performed here.
+"""
+File:         main.py
+Module:       tructrl_api
+Project:      TruCtrl-API
+Copyrigh:     © 2025 McGuire Technology, LLC and TruCtrl Contributors
+License:      MIT
+Description:  Main entry point for the TruCtrl-API FastAPI application.
+"""
 
 import logging
 import uvicorn
 from fastapi import FastAPI, Request, status
 from fastapi.responses import JSONResponse
-from config import config
-from routes import api_router
+from .config import config
+from .routes import api_router
 
 # --- Logging ---
 logging.basicConfig(
