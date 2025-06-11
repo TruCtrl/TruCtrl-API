@@ -32,4 +32,7 @@ class Config(BaseModel):
         f"{db_type}://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}"
     )
 
+    # Meraki
+    meraki_api_key: str = os.getenv("MERAKI_API_KEY", "")
+
 config = Config()

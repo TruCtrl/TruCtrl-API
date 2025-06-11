@@ -9,9 +9,11 @@ Description:  API routes for the TruCtrl-API application.
 from fastapi import APIRouter
 from .auth import auth_router
 from .users import users_router
+from .meraki import router as meraki_router
 
 
 # --- Routers ---
 api_router = APIRouter()
 api_router.include_router(auth_router)
 api_router.include_router(users_router)
+api_router.include_router(meraki_router)
