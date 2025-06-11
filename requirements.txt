@@ -1,10 +1,13 @@
-passlib[bcrypt]
+alembic
 fastapi
 httpx
+meraki
+passlib[bcrypt]
 pydantic
 pydantic[email]
 python-dotenv
 python-jose
 python-multipart
 sqlmodel
+ulid-py
 uvicorn
