@@ -1,9 +1,20 @@
+"""
+File:           dependencies.py
+Module:         users
+Project:        TruCtrl-API
+Copyrigh:       © 2025 McGuire Technology, LLC and TruCtrl Contributors
+License:        MIT
+Description:    Dependencies Layer for User Authentication. 
+                Contains reusable dependency functions for authentication, authorization, database sessions, etc. 
+                Used with FastAPI's Depends system.
+"""
+
 from fastapi import Depends, HTTPException
 from jose import JWTError, jwt
 from .models import TokenData
 from .constants import ERROR_INVALID_CREDENTIALS
 from ..config import config
-from ..users.crud import get_user_by_username
+from ..users.services import get_user_by_email
 
 
 from fastapi.security import OAuth2PasswordBearer
@@ -24,7 +35,7 @@ def get_current_user(token: str = Depends(oauth2_scheme)):
         token_data = TokenData(username=username)
     except JWTError:
         raise credentials_exception
-    user = get_user_by_username(token_data.username)
+    user = get_user_by_email(token_data.username)
     if user is None:
         raise credentials_exception
     return user
