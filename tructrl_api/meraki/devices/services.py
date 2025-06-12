@@ -1,3 +1,9 @@
+# File:     services.py
+# Package:  devices
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 from sqlmodel import Session
 from ..organizations.services import get_meraki_dashboard_client
 from ...config import config
