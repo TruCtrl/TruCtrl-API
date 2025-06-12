@@ -12,7 +12,5 @@ from .organizations.routes import router as organizations_router
 #from .devices.routes import devices_router
 
 router = APIRouter(prefix="/meraki")
-router.include_router(organizations_router)
-#meraki_router.include_router(networks_router)
-#meraki_router.include_router(devices_router)
 
+router.include_router(organizations_router, prefix="/organizations", tags=["Meraki Organizations"])
