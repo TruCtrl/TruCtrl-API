@@ -1,35 +1,33 @@
+# File:     services.py
+# Package:  organizations
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 from sqlmodel import Session
 from meraki import DashboardAPI
 from .models import MerakiOrganization
 from .crud import (
-    create_organization,
-    get_organization,
-    get_organization_by_remote_id,
-    list_organizations,
-    update_organization,
-    delete_organization,
+    create,
+    read,
+    list,
+    update,
+    delete,
+    upsert
 )
+from typing import List
 
-# Fetch organizations from Meraki cloud
-
-def fetch_meraki_organizations_from_cloud(api_key: str = None) -> list[dict]:
-    """
-    Call the Meraki Dashboard API to get organizations.
-    """
-    # If api_key is not provided, use the default from dashboard.py
-    dash = DashboardAPI(api_key=api_key)
-    return dash.organizations.getOrganizations()
-
-# Upsert a single organization from Meraki cloud into the local DB by remote_id
-
-def sync_meraki_organization(session: Session, remote_id: str, api_key: str = None):
-    orgs = fetch_meraki_organizations_from_cloud(api_key)
-    for org in orgs:
-        if org.get("id") == remote_id:
-            model_data = MerakiOrganization.from_meraki_api(org)
-            existing = get_organization_by_remote_id(session, model_data.remote_id)
-            if existing:
-                update_organization(session, existing.id, model_data.dict(exclude_unset=True))
-            else:
-                create_organization(session, model_data)
-            break
+def pull(session: Session, id: str) -> List[MerakiOrganization]:
+    # Use the API Key of the specified Meraki organization.
+    org = read(session, id)
+    if not org or not org.api_key:
+        return []
+    dash = DashboardAPI(api_key=org.api_key)
+    cloud_orgs = dash.organizations.getOrganizations()
+    upserted_orgs = []
+    for cloud_org in cloud_orgs:
+        model_data = MerakiOrganization.from_meraki_api(cloud_org)
+        model_data.api_key = org.api_key  # Always use the stored API key
+        upserted = upsert(session, model_data)
+        upserted_orgs.append(upserted)
+    return upserted_orgs
