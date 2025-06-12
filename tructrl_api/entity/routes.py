@@ -1,42 +1,55 @@
-from fastapi import APIRouter, Depends, HTTPException
+# File:     routes.py
+# Package:  entity
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+# Standard Library Imports
+from typing import List
+
+# Third-Party Imports
+from fastapi import APIRouter, Depends, HTTPException, status
 from sqlmodel import Session
-from .models import Entity
-from .crud import (
-    create_entity,
-    get_entity,
-    list_entities,
-    update_entity,
-    delete_entity,
-)
+
+# Project Imports
 from ..database import get_session
 
-router = APIRouter(prefix="/entity", tags=["Entity"])
+# Module Imports
+from .constants import *
+from .models import Entity
+from .crud import create, read, update, delete, list, upsert
 
-@router.post("/", response_model=Entity)
-def create(entity: Entity, session: Session = Depends(get_session)):
-    return create_entity(session, entity)
+# Router Setup
+router = APIRouter(prefix="/entity", tags=[ENTITY])
 
-@router.get("/", response_model=list[Entity])
-def list_all(session: Session = Depends(get_session)):
-    return list_entities(session)
+@router.get("", response_model=List[Entity])
+def list_entity(session: Session = Depends(get_session)):
+    return list(session)
+
+@router.post("", response_model=Entity)
+def create_entity(entity: Entity, session: Session = Depends(get_session)):
+    return create(session, entity)
+
+@router.post("/upsert", response_model=Entity)
+def upsert_entity(entity: Entity, session: Session = Depends(get_session)):
+    return upsert(session, entity)
 
 @router.get("/{id}", response_model=Entity)
-def get(id: str, session: Session = Depends(get_session)):
-    entity = get_entity(session, id)
+def read_entity(id: str, session: Session = Depends(get_session)):
+    entity = read(session, id)
     if not entity:
-        raise HTTPException(status_code=404, detail="Entity not found")
+        raise HTTPException(status_code=404, detail=ENTITY_NOT_FOUND)
     return entity
 
 @router.put("/{id}", response_model=Entity)
-def update(id: str, updates: dict, session: Session = Depends(get_session)):
-    entity = update_entity(session, id, updates)
+def update_entity(id: str, updates: dict, session: Session = Depends(get_session)):
+    entity = update(session, id, updates)
     if not entity:
-        raise HTTPException(status_code=404, detail="Entity not found")
+        raise HTTPException(status_code=404, detail=ENTITY_NOT_FOUND)
     return entity
 
 @router.delete("/{id}", response_model=bool)
-def delete(id: str, session: Session = Depends(get_session)):
-    result = delete_entity(session, id)
+def delete_entity(id: str, session: Session = Depends(get_session)):
+    result = delete(session, id)
     if not result:
-        raise HTTPException(status_code=404, detail="Entity not found")
+        raise HTTPException(status_code=404, detail=ENTITY_NOT_FOUND)
     return result

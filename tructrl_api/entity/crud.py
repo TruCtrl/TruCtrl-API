@@ -1,25 +1,29 @@
+# File:     crud.py
+# Package:  entity
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+# --- Imports ---
+
+# Third-Party Imports
 from sqlmodel import Session, select
+
+# Module Imports
 from .models import Entity
 
 # Create
-
-def create_entity(session: Session, entity: Entity) -> Entity:
+def create(session: Session, entity: Entity) -> Entity:
     session.add(entity)
     session.commit()
     session.refresh(entity)
     return entity
 
-# Read (by id)
-def get_entity(session: Session, id: str) -> Entity | None:
+# Read
+def read(session: Session, id: str) -> Entity | None:
     return session.get(Entity, id)
 
-# List all
-def list_entities(session: Session) -> list[Entity]:
-    statement = select(Entity)
-    return list(session.exec(statement))
-
 # Update
-def update_entity(session: Session, id: str, updates: dict) -> Entity | None:
+def update(session: Session, id: str, updates: dict) -> Entity | None:
     entity = session.get(Entity, id)
     if not entity:
         return None
@@ -31,10 +35,31 @@ def update_entity(session: Session, id: str, updates: dict) -> Entity | None:
     return entity
 
 # Delete
-def delete_entity(session: Session, id: str) -> bool:
+def delete(session: Session, id: str) -> bool:
     entity = session.get(Entity, id)
     if not entity:
         return False
     session.delete(entity)
     session.commit()
     return True
+
+# List
+def list(session: Session) -> list[Entity]:
+    statement = select(Entity)
+    return list(session.exec(statement))
+
+# Upsert
+def upsert(session: Session, entity: Entity) -> Entity:
+    existing = session.get(Entity, entity.id)
+    if existing:
+        for key, value in entity.dict(exclude_unset=True).items():
+            setattr(existing, key, value)
+        session.add(existing)
+        session.commit()
+        session.refresh(existing)
+        return existing
+    else:
+        session.add(entity)
+        session.commit()
+        session.refresh(entity)
+        return entity
