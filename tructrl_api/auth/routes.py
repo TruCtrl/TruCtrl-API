@@ -1,3 +1,8 @@
+# File:     routes.py
+# Package:  auth
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 """
 File:         routes.py
 Module:       auth
@@ -15,7 +20,7 @@ from .utils import (
     store_refresh_token, get_refresh_token, revoke_refresh_token, list_active_sessions,
     create_access_token, create_refresh_token
 )
-from .dependencies import get_current_user, oauth2_scheme
+from .dependencies import oauth2_scheme
 from .constants import (
     ERROR_INVALID_CREDENTIALS, ERROR_INVALID_REFRESH_TYPE, ERROR_INVALID_REFRESH, TOKEN_TYPE_REFRESH
 )
@@ -23,10 +28,10 @@ from jose import JWTError, jwt
 
 
 
-auth_router = APIRouter(tags=["Authentication"])
+router = APIRouter(tags=["Authentication"])
 
 
-@auth_router.post("/token", response_model=Token)
+@router.post("/token", response_model=Token)
 def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
     from main import authenticate_user  # Avoid circular import
     user = authenticate_user(form_data.username, form_data.password)
@@ -46,7 +51,7 @@ def login_for_access_token(form_data: OAuth2PasswordRequestForm = Depends()):
 class RefreshRequest(Token):
     refresh_token: str
 
-@auth_router.post("/refresh", response_model=Token)
+@router.post("/refresh", response_model=Token)
 def refresh_access_token(request: RefreshRequest):
     try:
         payload = jwt.decode(request.refresh_token, config.secret_key, algorithms=[config.algorithm])
@@ -64,11 +69,11 @@ def refresh_access_token(request: RefreshRequest):
     # Optionally rotate refresh token here
     return {"access_token": access_token, "token_type": "bearer", "refresh_token": request.refresh_token}
 
-@auth_router.get("/sessions")
+@router.get("/sessions")
 def get_sessions():
     return list_active_sessions()
 
-@auth_router.delete("/sessions/{username}")
+@router.delete("/sessions/{username}")
 def revoke_session(username: str):
     revoke_refresh_token(username)
     return {"detail": f"Session for {username} revoked."}

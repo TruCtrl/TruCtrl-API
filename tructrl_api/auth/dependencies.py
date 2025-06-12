@@ -14,14 +14,13 @@ from jose import JWTError, jwt
 from .models import TokenData
 from .constants import ERROR_INVALID_CREDENTIALS
 from ..config import config
-from ..users.services import get_user_by_email
 
 
 from fastapi.security import OAuth2PasswordBearer
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
 
 
-def get_current_user(token: str = Depends(oauth2_scheme)):
+""" def get_current_user(token: str = Depends(oauth2_scheme)):
     credentials_exception = HTTPException(
         status_code=401,
         detail=ERROR_INVALID_CREDENTIALS,
@@ -39,3 +38,4 @@ def get_current_user(token: str = Depends(oauth2_scheme)):
     if user is None:
         raise credentials_exception
     return user
+ """

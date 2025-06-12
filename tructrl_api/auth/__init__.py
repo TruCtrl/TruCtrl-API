@@ -7,9 +7,7 @@ Copyrigh:     © 2025 McGuire Technology, LLC and TruCtrl Contributors
 License:      MIT
 """
 
-from .routes import (
-    auth_router
-)
+from .routes import router
 from .models import (
     Token, 
     TokenData
