@@ -1,3 +1,7 @@
+# File:     config.py
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 import os
 from pydantic import BaseModel
 
