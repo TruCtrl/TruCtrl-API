@@ -1,3 +1,7 @@
+# File:     database.py
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 # SQLite database setup for TruCtrl-API using SQLModel
 import os
 from sqlmodel import SQLModel, create_engine, Session
