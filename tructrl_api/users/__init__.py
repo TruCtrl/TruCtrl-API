@@ -9,7 +9,4 @@ Description:    User Management Module.
 """
 
 from .models import User
-from .schemas import UserCreate, UserRead, UserUpdate
-from .services import create_users, get_users, update_users, delete_users, get_user_by_email
-from .routes import users_router
-from .dependencies import get_user_by_id
+from .routes import router

@@ -1,37 +1,67 @@
-"""
-File:           routes.py
-Module:         users
-Project:        TruCtrl-API
-Copyrigh:       © 2025 McGuire Technology, LLC and TruCtrl Contributors
-License:        MIT
-Description:    Routes Layer for User Management.
-                Defines the API endpoints (HTTP routes) and connects them to the service or CRUD functions.
-                Handles request/response, dependency injection, and error handling.
-"""
-from fastapi import APIRouter, Depends, HTTPException, status
+# File:     routes.py
+# Package:  users
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+
+# --- Imports ---
+
+# Standard Library Imports
 from typing import List
-from sqlmodel import Session, select
+
+# Third-Party Imports
+from fastapi import APIRouter, Depends, HTTPException, status
+from sqlmodel import Session
+
+# Project Imports
 from ..database import get_session
+
+# Module Imports
+from .constants import *
 from .models import User
+from .crud import list, create, upsert, read, update, delete
 
-users_router = APIRouter(prefix="/users", tags=["Users"])
+# Router Setup
+router = APIRouter(prefix="/users", tags=[USERS])
 
 
-@users_router.get("", response_model=List[User])
+# --- CRUD Endpoints ---
+
+# List
+@router.get("", response_model=List[User])
 def list_users(session: Session = Depends(get_session)):
-    users = session.exec(select(User)).all()
-    return users
+    return list(session)
 
+# Create
+@router.post("", response_model=User)
+def create_user(user: User, session: Session = Depends(get_session)):
+    return create(session, user)
 
-@users_router.get("/{user_id}", response_model=User)
-def get_user(user_id: int, session: Session = Depends(get_session)):
-    user = session.get(User, user_id)
+# Upsert
+@router.post("/upsert", response_model=User)
+def upsert_user(user: User, session: Session = Depends(get_session)):
+    return upsert(session, user)
+
+# Read
+@router.get("/{id}", response_model=User)
+def get_user(id: str, session: Session = Depends(get_session)):
+    user = read(session, id)
     if not user:
-        raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND, detail="User not found")
+        raise HTTPException(status_code=404, detail=USER_NOT_FOUND)
     return user
 
+# Update
+@router.put("/{id}", response_model=User)
+def update_user(id: str, updates: dict, session: Session = Depends(get_session)):
+    user = update(session, id, updates)
+    if not user:
+        raise HTTPException(status_code=404, detail=USER_NOT_FOUND)
+    return user
 
-@users_router.get("/me")
-def read_users_me(current_user: dict = Depends(lambda: __import__("..auth.dependencies", fromlist=["get_current_user"]).get_current_user())):
-    return current_user
+# Delete
+@router.delete("/{id}", response_model=bool)
+def delete_user(id: str, session: Session = Depends(get_session)):
+    result = delete(session, id)
+    if not result:
+        raise HTTPException(status_code=404, detail=USER_NOT_FOUND)
+    return result
