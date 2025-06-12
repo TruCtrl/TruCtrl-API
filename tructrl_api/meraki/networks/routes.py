@@ -1,3 +1,9 @@
+# File:     routes.py
+# Package:  networks
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 from fastapi import APIRouter, Depends
 from sqlmodel import Session
 from ...database import get_session

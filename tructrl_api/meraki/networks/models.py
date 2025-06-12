@@ -1,3 +1,9 @@
+# File:     models.py
+# Package:  networks
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 from sqlmodel import SQLModel, Field
 from typing import Optional
 

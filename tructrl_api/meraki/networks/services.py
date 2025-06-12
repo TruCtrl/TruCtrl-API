@@ -1,3 +1,9 @@
+# File:     services.py
+# Package:  networks
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
 from ..organizations.services import get_meraki_dashboard_client
 from ...config import config
 from .models import MerakiNetwork
