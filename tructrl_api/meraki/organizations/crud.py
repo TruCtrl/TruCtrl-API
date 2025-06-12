@@ -1,32 +1,57 @@
-from sqlmodel import Session, select
-from .models import MerakiOrganization
+# File:     crud.py
+# Package:  organizations
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+# --- Imports ---
+
+# Standard Imports
 from typing import List
 
+# Third-Party Imports
+from sqlmodel import Session, select
+
+# Project Imports
+
+# Module Imports
+from .models import Organization
+
+# List
+def list(session: Session) -> List[Organization]:
+    statement = select(Organization)
+    return list(session.exec(statement))
+
 # Create
-def create_organization(session: Session, org: MerakiOrganization) -> MerakiOrganization:
+def create(session: Session, org: Organization) -> Organization:
     session.add(org)
     session.commit()
     session.refresh(org)
     return org
 
+# Upsert
+def upsert(session: Session, org: Organization) -> Organization:
+    existing = session.get(Organization, org.id)
+    if existing:
+        for key, value in org.dict(exclude_unset=True).items():
+            setattr(existing, key, value)
+        session.add(existing)
+        session.commit()
+        session.refresh(existing)
+        return existing
+    else:
+        session.add(org)
+        session.commit()
+        session.refresh(org)
+        return org
 
-# Read (by id)
-def get_organization(session: Session, id: str) -> MerakiOrganization | None:
-    return session.get(MerakiOrganization, id)
-
-# Read (by remote_id)
-def get_organization_by_remote_id(session: Session, remote_id: str) -> MerakiOrganization | None:
-    statement = select(MerakiOrganization).where(MerakiOrganization.remote_id == remote_id)
-    return session.exec(statement).first()
-
-# List all
-def list_organizations(session: Session) -> List[MerakiOrganization]:
-    statement = select(MerakiOrganization)
-    return list(session.exec(statement))
+# Read
+def read(session: Session, id: str) -> Organization | None:
+    return session.get(Organization, id)
 
 # Update
-def update_organization(session: Session, id: str, updates: dict) -> MerakiOrganization | None:
-    org = session.get(MerakiOrganization, id)
+def update(session: Session, id: str, updates: dict) -> Organization | None:
+    org = session.get(Organization, id)
     if not org:
         return None
     for key, value in updates.items():
@@ -37,8 +62,8 @@ def update_organization(session: Session, id: str, updates: dict) -> MerakiOrgan
     return org
 
 # Delete
-def delete_organization(session: Session, id: str) -> bool:
-    org = session.get(MerakiOrganization, id)
+def delete(session: Session, id: str) -> bool:
+    org = session.get(Organization, id)
     if not org:
         return False
     session.delete(org)

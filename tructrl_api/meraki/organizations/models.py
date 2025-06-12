@@ -1,8 +1,26 @@
-from sqlmodel import SQLModel, Field
+# File:     models.py
+# Package:  organizations
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+# --- Imports ---
+
+# Standard Imports
 from typing import Optional
 import ulid
 
-class MerakiOrganization(SQLModel, table=True):
+# Third-Party Imports
+from sqlmodel import SQLModel, Field
+
+# Project Imports
+
+# Package Imports
+
+
+# --- Models ---
+
+class Organization(SQLModel, table=True):
     __tablename__ = "meraki_organizations"
     id: str = Field(default_factory=lambda: ulid.new().str, primary_key=True, description="ULID primary key")
     api_key: Optional[str] = "CHANGEMECHANGEMECHANGEMECHANGEMECHANGEME"
@@ -16,7 +34,19 @@ class MerakiOrganization(SQLModel, table=True):
     management_msp_id: Optional[str] = "123456"
 
     @classmethod
-    def from_meraki_api(cls, data: dict):
+    def from_api(cls, data: dict):
+        """
+        Create an Organization instance from Meraki API data.
+        
+        Example usage:
+            org = Organization.from_api(api_response_dict)
+        
+        Args:
+            data (dict): A dictionary representing a Meraki organization as returned by the Meraki Dashboard API.
+        
+        Returns:
+            Organization: An instance of Organization populated with the API data.
+        """
         return cls(
             remote_id=data["id"],
             name=data["name"],

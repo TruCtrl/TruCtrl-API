@@ -1,0 +1,2 @@
+ORGANIZATION = "Organization"
+ORGANIZATIONS = "Organizations"

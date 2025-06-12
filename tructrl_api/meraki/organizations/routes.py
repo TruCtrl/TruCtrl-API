@@ -1,59 +1,67 @@
+# File:     routes.py
+# Package:  organizations
+# Package:  meraki
+# Package:  tructrl_api
+# Project:  TruCtrl
+
+
+# ----- Imports ------
+
+# Standard Imports
+from typing import List
+
+# Third-Party Imports
 from fastapi import APIRouter, Depends, HTTPException
 from sqlmodel import Session
+
+# Project Imports
 from ...database import get_session
-from .models import MerakiOrganization
-from .crud import (
-    create_organization,
-    get_organization,
-    get_organization_by_remote_id,
-    list_organizations,
-    update_organization,
-    delete_organization,
-)
-from .services import sync_meraki_organization
 
-router = APIRouter(prefix="/organizations", tags=["Meraki Organizations"])
+# Package Imports
+from .models import Organization
+from .crud import list, create, upsert, read, update, delete
 
-@router.post("", response_model=MerakiOrganization)
-def create_org(org: MerakiOrganization, session: Session = Depends(get_session)):
-    return create_organization(session, org)
+# Router Setup
+router = APIRouter()
 
-@router.get("", response_model=list[MerakiOrganization])
-def list_orgs(session: Session = Depends(get_session)):
-    return list_organizations(session)
 
-@router.get("/{id}", response_model=MerakiOrganization)
-def get_org(id: str, session: Session = Depends(get_session)):
-    org = get_organization(session, id)
+# ------ CRUD Endpoints -----
+
+# List
+@router.get("", response_model=List[Organization])
+def list_organizations(session: Session = Depends(get_session)):
+    return list(session)
+
+# Create
+@router.post("", response_model=Organization)
+def create_organization(organizaton: Organization, session: Session = Depends(get_session)):
+    return create(session, organizaton)
+
+# Upsert
+@router.post("/upsert", response_model=Organization)
+def upsert_organization(organization: Organization, session: Session = Depends(get_session)):
+    return upsert(session, organization)
+
+# Read
+@router.get("/{id}", response_model=Organization)
+def read_organization(id: str, session: Session = Depends(get_session)):
+    org = read(session, id)
     if not org:
         raise HTTPException(status_code=404, detail="Organization not found")
     return org
 
-@router.get("/remote/{remote_id}", response_model=MerakiOrganization)
-def get_org_by_remote_id(remote_id: str, session: Session = Depends(get_session)):
-    org = get_organization_by_remote_id(session, remote_id)
+# Update
+@router.put("/{id}", response_model=Organization)
+def update_organization(id: str, updates: dict, session: Session = Depends(get_session)):
+    org = update(session, id, updates)
     if not org:
         raise HTTPException(status_code=404, detail="Organization not found")
     return org
 
-@router.put("/{id}", response_model=MerakiOrganization)
-def update_org(id: str, updates: dict, session: Session = Depends(get_session)):
-    org = update_organization(session, id, updates)
-    if not org:
-        raise HTTPException(status_code=404, detail="Organization not found")
-    return org
-
+# Delete
 @router.delete("/{id}", response_model=bool)
-def delete_org(id: str, session: Session = Depends(get_session)):
-    result = delete_organization(session, id)
+def delete_organization(id: str, session: Session = Depends(get_session)):
+    result = delete(session, id)
     if not result:
         raise HTTPException(status_code=404, detail="Organization not found")
     return result
-
-@router.post("/{id}/sync", response_model=MerakiOrganization)
-def sync_org(id: str, session: Session = Depends(get_session)):
-    sync_meraki_organization(session, id)
-    org = get_organization_by_remote_id(session, id)
-    if not org:
-        raise HTTPException(status_code=404, detail="Organization not found after sync")
-    return org
