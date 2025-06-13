@@ -1,6 +1,6 @@
-# File:     models.py
-# Package:  meraki
-# Package:  tructrl_api
+# Module:   models
+# Module:   meraki
+# Module:   tructrl_api
 # Project:  TruCtrl
 
 
@@ -14,3 +14,4 @@
 
 # Module Imports
 from .meraki import Organization as MerakiOrganization
+from .users import User

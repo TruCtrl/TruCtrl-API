@@ -19,7 +19,7 @@ from ...database import get_session
 
 # Package Imports
 from .models import Organization
-from .crud import list, create, upsert, read, update, delete
+from .crud import list_all, create, upsert, read, update, delete
 
 # Router Setup
 router = APIRouter()
@@ -30,7 +30,7 @@ router = APIRouter()
 # List
 @router.get("", response_model=List[Organization])
 def list_organizations(session: Session = Depends(get_session)):
-    return list(session)
+    return list_all(session)
 
 # Create
 @router.post("", response_model=Organization)

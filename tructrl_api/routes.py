@@ -16,7 +16,6 @@ from fastapi import APIRouter
 
 # Module Imports
 from .auth import router as auth_router
-from .entity import router as entity_router
 from .meraki import router as meraki_router
 from .users import router as users_router
 
@@ -28,7 +27,6 @@ api_router = APIRouter()
 
 package_routers = [
     auth_router, 
-    entity_router,
     meraki_router, 
     users_router, 
 ]

@@ -14,6 +14,13 @@ from .models import User
 
 # --- CRUD Operations ---
 
+
+# List all
+def list_all(session: Session) -> list[User]:
+    statement = select(User)
+    result = session.exec(statement)
+    return list(result)
+
 # Create
 def create(session: Session, user: User) -> User:
     session.add(user)
@@ -61,8 +68,3 @@ def delete(session: Session, id: str) -> bool:
     session.delete(user)
     session.commit()
     return True
-
-# List all
-def list(session: Session) -> List[User]:
-    statement = select(User)
-    return list(session.exec(statement))

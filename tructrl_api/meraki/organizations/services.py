@@ -10,7 +10,7 @@ from .models import MerakiOrganization
 from .crud import (
     create,
     read,
-    list,
+    list_all,
     update,
     delete,
     upsert

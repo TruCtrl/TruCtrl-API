@@ -8,21 +8,28 @@
 
 # Standard Imports
 from typing import Optional
-import ulid
 
 # Third-Party Imports
-from sqlmodel import SQLModel, Field
+from sqlmodel import (
+    Field, 
+    SQLModel, 
+    Relationship
+)
+import ulid
 
 # Project Imports
 
 # Package Imports
 
-
 # --- Models ---
 
 class Organization(SQLModel, table=True):
-    __tablename__ = "meraki_organizations"
-    id: str = Field(default_factory=lambda: ulid.new().str, primary_key=True, description="ULID primary key")
+    __tablename__ = "meraki_organization"
+    id: bytes = Field(
+        default_factory=lambda: ulid.new().bytes, 
+        primary_key=True, 
+        description="ULID primary key as bytes"
+    )
     api_key: Optional[str] = "CHANGEMECHANGEMECHANGEMECHANGEMECHANGEME"
     remote_id: str = "2930418"
     name: str = "My organization"

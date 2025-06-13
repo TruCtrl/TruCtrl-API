@@ -20,7 +20,7 @@ from fastapi.security import OAuth2PasswordBearer
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
 
 
-""" def get_current_user(token: str = Depends(oauth2_scheme)):
+def get_current_user(token: str = Depends(oauth2_scheme)):
     credentials_exception = HTTPException(
         status_code=401,
         detail=ERROR_INVALID_CREDENTIALS,
@@ -34,8 +34,6 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/token")
         token_data = TokenData(username=username)
     except JWTError:
         raise credentials_exception
-    user = get_user_by_email(token_data.username)
-    if user is None:
-        raise credentials_exception
-    return user
- """
+    # You need to implement get_user_by_email or import it from your user CRUD module
+    # For now, return token_data as a placeholder
+    return token_data

@@ -1,0 +1,1780 @@
+organization,switch,switch_serial,port_id,port_name,enabled
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,9,Infusion Center,True
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,12,Open,True
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,13,N. Rack 1 SW 1,True
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,14,Open,True
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,15,Uplink Cisco 4431 gi 2 - Disabled for Cutover,False
+BCMH,Data Center Core 410-1,Q2AW-9BXE-RTGG,16,S. Rack 1 ,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,3,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,5,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,6,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,7,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,8,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,9,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,10,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,11,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,12,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,13,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,14,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,15,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,17,,True
+BCMH,Data Center 410-2,Q2AW-9GKL-GMGA,18,,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,1,Surgery ,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,2,Radiolgy,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,5,Basement ED,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,6,East Wing,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,7,High St.,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,8,Basement Training,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,9,Edu Basement,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,10,,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,11,,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,12,,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,13,Rich Hill,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,15,Telco 1 Stack,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,16,Link to 250 1-1 Port 49,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,19,,True
+BCMH,Fiber GW Telco rm MS-410,Q2AW-9UDQ-RWZC,20,,True
+BCMH,Telco ISP-1,Q2CX-26AE-3WYE,2,,False
+BCMH,Telco ISP-1,Q2CX-26AE-3WYE,3,,False
+BCMH,Telco ISP-1,Q2CX-26AE-3WYE,9,,False
+BCMH,Telco ISP-1,Q2CX-26AE-3WYE,10,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,2,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,3,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,4,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,5,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,9,,False
+BCMH,Telco ISP-2,Q2CX-YLGN-SMPZ,10,,False
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,2,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,3,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,4,ShoreTel (Hillrom Staging),True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,7,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,10,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,11,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,15,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,16,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,17,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,18,Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,19,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,21,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,22,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,24,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,25,Ultrasound Test,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,26,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,29,Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,30,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,31,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,32,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,33,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,34,ShoreTel Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,35,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,38,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,39,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,40,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,41,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,42,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,43,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,44,Static,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,45,ST48A1,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,46,,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,47,AP Wireless,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,48,Wireless,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,50,,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,51,,True
+BCMH,2nd Floor Stack 1 - 1,Q2QW-33JA-DJYS,52,,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,1,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,2,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,3,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,4,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,5,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,6,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,7,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,8,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,9,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,10,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,12,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,13,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,14,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,15,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,16,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,17,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,18,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,19,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,20,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,21,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,22,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,23,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,24,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,25,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,26,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,27,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,28,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,29,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,30,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,31,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,32,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,33,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,34,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,35,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,36,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,37,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,38,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,39,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,41,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,42,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,43,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,44,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,45,Data 130,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,48,,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,49,,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,50,,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,51,,True
+BCMH,Data Center Stack 1-6,Q2QW-38ME-C8SH,52,,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,6,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,8,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,9,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,10,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,13,UNV Temperature Sensor,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,16,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,17,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,27,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,29,ShoreTel,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,30,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,31,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,32,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,33,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,35,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,39,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,41,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,42,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,43,Static,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,46,Shortel Test,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,47,Wireless AP,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,49,,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,50,,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,51,,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,52,,True
+BCMH,Radiology 1 Stack 1-4,Q2QW-38W3-E6Y6,53,,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,1,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,2,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,11,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,18,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,19,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,26,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,28,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,30,ShoreTel,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,35,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,36,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,40,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,42,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,44,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,45,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,46,Static,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,47,Wireless AP,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,50,,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,51,,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,52,,True
+BCMH,Telco Rm Stack 1-1,Q2QW-397F-6SV2,54,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,1,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,3,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,6,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,7,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,8,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,9,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,10,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,17,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,18,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,20,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,22,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,24,Shortel,True
+BCMH,East Class Room,Q2QW-398G-ARXG,26,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,27,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,28,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,29,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,30,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,32,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,33,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,34,Data 130,True
+BCMH,East Class Room,Q2QW-398G-ARXG,35,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,36,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,37,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,38,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,39,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,40,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,41,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,42,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,43,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,44,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,45,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,46,Static,True
+BCMH,East Class Room,Q2QW-398G-ARXG,47,Wireless AP,True
+BCMH,East Class Room,Q2QW-398G-ARXG,49,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,50,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,51,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,52,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,53,,True
+BCMH,East Class Room,Q2QW-398G-ARXG,54,,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,5,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,6,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,8,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,9,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,11,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,15,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,17,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,20,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,22,ShoreTel,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,25,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,26,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,27,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,28,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,29,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,30,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,31,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,32,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,33,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,34,Data 130,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,35,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,36,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,37,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,38,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,39,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,43,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,45,Static,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,46,Shortel Test,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,47,Wireless Ap,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,49,,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,50,,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,51,,True
+BCMH,Surgery Stack 1-6,Q2QW-3BTX-H7W2,52,,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,14,Hillrom Staging,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,21,ShoreTel,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,24,ShoreTel,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,26,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,27,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,29,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,31,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,32,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,33,Data 130,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,35,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,41,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,43,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,44,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,45,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,46,Static,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,49,,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,50,,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,51,,True
+BCMH,Surgery Stack 1-3,Q2QW-3CG6-95SR,52,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,1,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,2,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,15,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,20,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,21,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,22,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,23,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,24,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,28,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,29,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,30,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,31,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,32,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,33,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,34,ShorTel,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,35,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,37,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,38,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,39,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,40,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,41,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,42,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,43,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,44,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,45,Shortel Test,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,49,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,50,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,51,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,52,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,53,,True
+BCMH,Rich Hill,Q2QW-3CJN-4EEL,54,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,1,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,2,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,3,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,4,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,5,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,6,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,7,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,8,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,9,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,10,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,11,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,12,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,13,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,14,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,15,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,16,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,17,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,18,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,19,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,20,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,21,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,22,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,23,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,24,Shortel,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,25,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,26,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,27,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,28,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,29,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,30,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,31,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,32,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,33,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,34,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,35,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,36,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,37,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,38,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,39,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,40,Data 130,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,41,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,42,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,43,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,44,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,45,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,46,Static,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,47,Wireless AP,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,48,Wireless AP,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,49,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,50,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,51,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,52,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,53,,True
+BCMH,Telco Rm Stack 2-1-RMA,Q2QW-3CJT-VG94,54,,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,2,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,3,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,4,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,6,Test port Daniel IT desk Z7-35,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,9,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,10,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,12,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,13,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,14,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,15,Nick Z7-60 TEST,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,17,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,19,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,20,Daniel Z7-27,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,21,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,22,IT MFP,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,23,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,24,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,25,Data,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,27,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,28,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,29,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,30,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,33,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,35,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,38,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,42,Data 130,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,43,Sleep Study Camera,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,46,Sleep Study Camera,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,47,Wireless APs,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,49,,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,50,,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,51,,True
+BCMH,Telco Rm Stack 2-4,Q2QW-3CK8-KUWN,52,,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,2,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,3,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,4,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,5,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,6,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,7,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,12,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,13,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,14,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,16,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,17,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,18,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,21,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,23,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,25,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,27,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,31,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,32,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,33,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,36,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,37,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,38,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,39,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,40,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,41,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,42,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,43,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,44,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,45,Static,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,46,Shortel Test,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,48,,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,49,,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,50,,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,51,,True
+BCMH,2nd Floor Stack 1 - 3,Q2QW-3CLZ-8BRX,52,,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,6,ShoreTel - Gift Shop - Credit Card,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,7,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,8,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,13,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,15,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,18,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,19,ShoreTel,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,26,Data 130,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,28,Data 130,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,29,Data 130,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,31,Data 130,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,33,Data 130,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,39,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,40,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,41,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,42,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,43,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,44,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,45,Static,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,48,Wireless AP,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,49,,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,50,,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,51,,True
+BCMH,Surgery Stack 1-2,Q2QW-3CMT-RJR5,52,,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,1,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,2,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,3,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,4,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,5,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,7,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,9,Talis,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,11,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,14,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,15,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,16,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,17,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,18,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,19,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,20,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,21,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,22,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,23,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,24,ShoreTel,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,25,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,26,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,27,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,28,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,29,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,30,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,31,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,32,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,33,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,34,Data 130,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,36,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,38,Static,False
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,39,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,40,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,41,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,43,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,44,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,45,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,46,Static,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,48,Wireless AP,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,49,,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,50,,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,51,,True
+BCMH,Surgery Stack 1-5,Q2QW-3CNC-BMJG,52,,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,1,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,4,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,7,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,10,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,11,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,13,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,14,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,15,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,22,ShoerTel,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,25,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,27,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,28,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,29,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,32,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,33,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,34,Data 130,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,35,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,39,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,41,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,42,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,43,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,44,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,46,Static,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,50,,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,51,,True
+BCMH,Surgery Stack 1-1,Q2QW-3CZS-3LES,52,,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,1,ShoreTel,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,6,ShoreTel,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,11,ShoreTel,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,13,UNV Temp Scanner,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,16,ShoreTel,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,25,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,27,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,29,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,30,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,32,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,33,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,34,Data 130,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,36,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,37,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,38,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,39,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,40,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,41,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,42,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,43,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,44,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,45,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,46,Static,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,49,,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,50,,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,51,,True
+BCMH,Surgery Stack 1-4,Q2QW-3D4X-35EN,52,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,3,Surgery Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,5,ED Basement Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,6,Telco Rm Rack 1 SW 2 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,8,Telco Rack SW 1 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,9,East Wing Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,10,Radiology SW 2 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,12,Radiology SW 1 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,13,North Rack SW 5 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,14,N. Rack 1 SW 1 Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,15,S. Rack SW 1,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,16,Core SW Telco Rm Temp,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,17,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,18,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,19,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,20,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,21,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,22,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,23,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,24,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,25,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,26,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,27,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,28,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,29,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,30,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,31,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,32,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,33,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,34,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,35,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,36,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,38,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,39,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,41,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,42,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,43,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,44,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,45,Primary MX port 5,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,46,Spare MX port 5,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,47,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,48,Link to C3850 S2 Gig 1/0/47,False
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,50,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,51,,True
+BCMH,Data Center Stack 1-1,Q2QW-3DFK-HTN3,52,,True
+BCMH,,Q2QW-3DKJ-N4MV,1,,True
+BCMH,,Q2QW-3DKJ-N4MV,2,,True
+BCMH,,Q2QW-3DKJ-N4MV,3,,True
+BCMH,,Q2QW-3DKJ-N4MV,4,,True
+BCMH,,Q2QW-3DKJ-N4MV,5,,True
+BCMH,,Q2QW-3DKJ-N4MV,6,,True
+BCMH,,Q2QW-3DKJ-N4MV,7,,True
+BCMH,,Q2QW-3DKJ-N4MV,8,,True
+BCMH,,Q2QW-3DKJ-N4MV,9,,True
+BCMH,,Q2QW-3DKJ-N4MV,10,,True
+BCMH,,Q2QW-3DKJ-N4MV,11,,True
+BCMH,,Q2QW-3DKJ-N4MV,12,,True
+BCMH,,Q2QW-3DKJ-N4MV,13,,True
+BCMH,,Q2QW-3DKJ-N4MV,14,,True
+BCMH,,Q2QW-3DKJ-N4MV,15,,True
+BCMH,,Q2QW-3DKJ-N4MV,16,,True
+BCMH,,Q2QW-3DKJ-N4MV,17,,True
+BCMH,,Q2QW-3DKJ-N4MV,18,,True
+BCMH,,Q2QW-3DKJ-N4MV,19,,True
+BCMH,,Q2QW-3DKJ-N4MV,20,,True
+BCMH,,Q2QW-3DKJ-N4MV,21,,True
+BCMH,,Q2QW-3DKJ-N4MV,22,,True
+BCMH,,Q2QW-3DKJ-N4MV,23,,True
+BCMH,,Q2QW-3DKJ-N4MV,24,,True
+BCMH,,Q2QW-3DKJ-N4MV,25,,True
+BCMH,,Q2QW-3DKJ-N4MV,26,,True
+BCMH,,Q2QW-3DKJ-N4MV,27,,True
+BCMH,,Q2QW-3DKJ-N4MV,28,,True
+BCMH,,Q2QW-3DKJ-N4MV,29,,True
+BCMH,,Q2QW-3DKJ-N4MV,30,,True
+BCMH,,Q2QW-3DKJ-N4MV,31,,True
+BCMH,,Q2QW-3DKJ-N4MV,32,,True
+BCMH,,Q2QW-3DKJ-N4MV,33,,True
+BCMH,,Q2QW-3DKJ-N4MV,34,,True
+BCMH,,Q2QW-3DKJ-N4MV,35,,True
+BCMH,,Q2QW-3DKJ-N4MV,36,,True
+BCMH,,Q2QW-3DKJ-N4MV,37,,True
+BCMH,,Q2QW-3DKJ-N4MV,38,,True
+BCMH,,Q2QW-3DKJ-N4MV,39,,True
+BCMH,,Q2QW-3DKJ-N4MV,40,,True
+BCMH,,Q2QW-3DKJ-N4MV,41,,True
+BCMH,,Q2QW-3DKJ-N4MV,42,,True
+BCMH,,Q2QW-3DKJ-N4MV,43,,True
+BCMH,,Q2QW-3DKJ-N4MV,44,,True
+BCMH,,Q2QW-3DKJ-N4MV,45,,True
+BCMH,,Q2QW-3DKJ-N4MV,46,,True
+BCMH,,Q2QW-3DKJ-N4MV,47,,True
+BCMH,,Q2QW-3DKJ-N4MV,48,,True
+BCMH,,Q2QW-3DKJ-N4MV,49,,True
+BCMH,,Q2QW-3DKJ-N4MV,50,,True
+BCMH,,Q2QW-3DKJ-N4MV,51,,True
+BCMH,,Q2QW-3DKJ-N4MV,52,,True
+BCMH,,Q2QW-3DKJ-N4MV,53,,True
+BCMH,,Q2QW-3DKJ-N4MV,54,,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,2,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,6,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,7,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,14,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,16,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,26,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,27,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,28,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,33,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,35,ShoreTel,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,36,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,38,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,41,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,42,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,43,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,44,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,45,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,46,Static,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,47,Wireless Ap,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,48,Wireless Ap,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,49,,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,50,,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,51,,True
+BCMH,Telco Rm Stack 1-2,Q2QW-3DLP-9T4V,52,,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,1,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,2,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,3,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,4,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,5,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,6,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,7,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,8,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,9,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,12,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,13,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,14,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,15,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,16,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,17,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,18,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,19,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,20,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,21,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,22,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,23,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,24,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,25,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,26,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,27,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,28,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,29,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,30,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,31,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,32,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,33,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,34,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,35,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,36,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,37,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,38,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,39,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,41,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,42,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,43,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,44,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,45,Data 130,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,48,,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,49,,True
+BCMH,Data Center Stack 1-5,Q2QW-3HJX-HMJC,52,,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,3,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,5,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,7,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,8,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,9,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,10,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,11,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,12,FCC High Tricia,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,15,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,16,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,17,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,18,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,20,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,21,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,22,Shortel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,25,ShoreTel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,26,ShoreTel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,29,ShoreTel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,31,ShoreTel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,34,ShoreTel,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,40,UNV Temp Sensor,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,41,Static,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,43,Static,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,45,Static,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,48,Wireless AP,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,50,,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,51,,True
+BCMH,High FCC Stack 1-1,Q2QW-3HM4-ACWQ,52,,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,1,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,3,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,5,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,6,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,7,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,8,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,9,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,12,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,13,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,14,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,15,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,16,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,17,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,18,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,19,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,20,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,21,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,22,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,23,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,24,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,25,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,26,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,27,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,28,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,29,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,30,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,31,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,32,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,33,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,34,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,35,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,36,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,37,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,38,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,39,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,41,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,42,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,43,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,44,Data 130,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,45,Nimble Laptop,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,47,,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,48,,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,49,,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,50,,True
+BCMH,Data Center Stack 1-3,Q2QW-3HQY-PLVT,52,,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,1,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,3,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,4,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,5,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,6,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,7,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,8,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,9,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,12,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,13,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,14,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,15,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,16,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,17,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,18,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,19,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,20,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,21,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,22,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,23,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,24,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,26,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,27,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,28,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,29,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,30,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,31,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,32,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,33,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,34,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,35,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,36,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,37,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,38,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,39,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,41,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,42,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,43,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,44,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,45,Data 130,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,47,,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,48,,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,49,,True
+BCMH,Data Center Stack 1-4,Q2QW-3HSN-4P98,52,,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,2,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,10,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,11,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,13,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,15,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,16,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,18,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,22,Shortel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,25,Shoretel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,26,Shoretel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,27,Shoretel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,28,Shoretel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,31,Shoretel,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,35,Static,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,36,Static,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,39,Static,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,42,Static,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,44,Static,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,46,Shortel Test,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,48,Wireless AP,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,49,,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,50,,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,51,,True
+BCMH,High FCC Stack 1-2,Q2QW-3HTH-9RBM,52,,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,1,Old Virtual to New,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,3,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,5,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,6,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,8,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,9,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,12,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,13,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,14,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,15,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,16,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,17,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,18,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,19,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,20,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,21,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,22,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,23,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,24,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,25,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,26,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,27,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,28,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,29,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,30,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,31,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,32,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,33,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,34,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,35,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,36,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,37,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,38,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,39,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,41,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,42,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,43,Data 130,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,44,Servers 1001,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,45,Primary MX port 6,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,46,Spare MX port 6,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,49,,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,50,,True
+BCMH,Data Center Stack 1-2,Q2QW-3HUA-WC76,52,,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,1,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,2,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,3,Daniel Z7-26,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,4,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,5,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,14,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,20,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,22,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,23,Shortel,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,25,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,26,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,28,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,30,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,31,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,32,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,35,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,36,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,39,Data 130,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,45,Static,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,47,Wireless AP,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,48,Wireless AP,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,49,,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,50,,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,51,,True
+BCMH,Telco Rm Stack 2-2,Q2QW-3J89-M2VE,52,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,2,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,5,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,10,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,11,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,20,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,30,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,33,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,34,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,36,Shortel,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,38,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,39,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,40,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,41,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,43,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,45,Shortel Test,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,47,Static,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,48,Wireless AP,False
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,49,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,50,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,51,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,52,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,53,,True
+BCMH,Adrian-SW01,Q2QW-49TJ-35EN,54,,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,1,Jeff Ultrasound Modality,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,3,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,6,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,9,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,13,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,14,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,15,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,16,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,17,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,21,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,24,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,25,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,26,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,27,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,28,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,30,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,32,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,34,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,35,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,36,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,37,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,38,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,41,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,42,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,44,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,47,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,48,Data 130,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,50,,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,51,,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,52,,True
+BCMH,Radiology 1 Stack 1-1,Q2QW-573X-EY3D,54,,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,4,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,6,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,8,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,10,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,12,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,14,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,16,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,17,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,18,A-33,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,20,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,21,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,22,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,23,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,24,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,25,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,26,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,28,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,30,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,31,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,32,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,33,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,34,Shortel,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,36,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,37,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,38,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,39,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,40,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,41,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,42,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,43,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,44,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,46,Static,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,47,Wireless AP,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,50,,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,51,,True
+BCMH,East Wing Stack 1-1,Q2QW-57MA-XACU,52,,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,5,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,7,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,10,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,14,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,18,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,24,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,28,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,29,UNV Temp Sensor,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,33,Shortel,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,36,Static,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,37,FCC Nursery Basement,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,39,Static,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,43,Static,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,47,Wireless AP,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,48,Wireless AP,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,50,,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,51,,True
+BCMH,Nursery FCC Stack 1-1,Q2QW-57X6-VKGR,52,,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,1,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,2,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,3,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,4,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,5,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,6,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,7,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,8,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,9,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,10,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,11,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,12,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,13,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,14,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,15,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,16,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,18,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,19,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,20,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,21,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,22,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,23,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,24,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,25,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,26,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,27,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,28,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,30,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,31,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,32,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,33,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,34,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,35,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,36,ShoreTel,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,37,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,38,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,39,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,40,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,41,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,42,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,43,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,44,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,45,Static,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,46,Static - MS120,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,48,Wireless AP,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,49,,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,50,,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,51,,True
+BCMH,Telco Rm Stack 1-5,Q2QW-57XR-5WE2,52,,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,1,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,2,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,3,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,4,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,6,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,7,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,8,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,9,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,10,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,11,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,13,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,14,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,15,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,16,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,17,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,18,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,19,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,20,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,21,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,22,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,23,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,25,Static 1020,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,27,RAD MRI,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,28,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,29,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,30,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,32,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,33,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,34,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,35,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,37,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,39,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,41,Data 130,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,44,Radiology MRI,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,49,,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,50,,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,51,,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,52,,True
+BCMH,Telco Rm Stack 2-5,Q2QW-57YA-6JB5,53,,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,5,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,6,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,7,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,8,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,9,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,10,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,11,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,13,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,14,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,15,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,16,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,19,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,20,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,21,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,22,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,23,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,25,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,27,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,30,Telstrat ED Phone 7000 v2,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,31,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,32,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,33,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,34,ShoreTel,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,35,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,36,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,37,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,38,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,39,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,40,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,41,Camera,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,42,Static,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,43,Camera,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,45,Camera,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,46,Shortel Test,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,47,Wireless AP,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,48,Wireless AP,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,49,,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,50,,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,51,,True
+BCMH,Telco Rm Stack 1-6,Q2QW-582M-HNJV,52,,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,1,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,4,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,5,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,7,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,9,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,10,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,11,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,13,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,15,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,19,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,21,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,23,ShoreTel,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,24,ShoreTel SA500 ,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,27,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,29,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,30,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,31,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,32,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,33,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,34,Data 130,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,35,Static,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,36,Static,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,39,Static,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,47,Nortel C-Lan,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,49,,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,50,,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,51,,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,52,,True
+BCMH,Telco Rm Stack 1-7,Q2QW-58XN-BVA3,53,,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,1,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,2,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,3,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,4,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,5,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,6,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,7,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,8,A-32,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,9,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,10,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,11,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,12,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,13,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,14,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,16,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,17,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,18,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,19,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,20,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,21,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,23,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,24,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,25,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,26,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,27,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,28,Shortel,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,30,Data 130,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,31,Patient Account UB,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,32,Data 130,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,33,CBO 2,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,34,Emergency Copper,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,35,CBO4,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,37,Static,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,38,Patient Accounts Whitney,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,39,Static,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,41,Static,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,46,Shortel Test,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,49,,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,50,,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,51,,True
+BCMH,East Wing Stack 1-2,Q2QW-5BUL-MR55,52,,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,1,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,3,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,5,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,6,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,7,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,9,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,10,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,11,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,12,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,15,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,16,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,18,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,19,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,21,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,23,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,27,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,28,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,29,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,30,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,31,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,32,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,33,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,34,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,35,Static,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,37,Static,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,38,Static,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,45,Static,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,47,Wireless AP,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,48,Wireless AP,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,49,,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,50,,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,51,,True
+BCMH,2nd Floor Stack 1 - 5,Q2QW-5D3L-6FMC,52,,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,1,,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,4,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,5,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,6,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,7,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,8,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,9,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,10,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,12,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,13,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,14,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,15,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,16,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,17,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,18,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,19,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,20,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,21,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,27,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,28,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,29,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,30,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,31,Shortel,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,34,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,35,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,36,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,39,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,43,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,45,Static,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,49,,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,50,,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,51,,True
+BCMH,Nursery FCC Stack 1-2,Q2QW-5DLK-KFM9,52,,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,2,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,4,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,5,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,9,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,16,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,18,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,20,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,21,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,25,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,26,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,27,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,31,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,33,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,35,ShoreTel,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,37,Administration Greg,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,38,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,39,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,40,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,41,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,42,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,43,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,44,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,45,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,46,Static,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,47,Wireless AP,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,48,Wireless AP,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,49,,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,50,,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,51,,True
+BCMH,Telco Rm Stack 1-3,Q2QW-5E48-N4HG,52,,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,2,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,3,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,8,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,9,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,10,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,11,Ultrasound Test Port,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,13,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,14,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,15,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,18,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,20,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,21,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,22,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,24,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,25,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,27,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,30,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,31,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,32,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,33,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,34,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,35,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,36,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,37,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,38,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,40,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,41,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,42,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,45,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,48,Data 130,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,49,,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,50,,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,51,,True
+BCMH,Radiology 1 Stack 1-2,Q2QW-5E72-MBXJ,52,,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,1,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,2,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,3,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,4,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,5,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,6,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,7,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,8,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,9,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,10,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,11,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,12,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,13,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,14,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,15,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,16,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,17,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,19,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,20,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,21,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,22,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,23,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,24,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,25,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,26,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,27,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,28,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,29,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,30,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,31,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,32,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,33,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,34,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,35,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,36,ShoreTel,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,37,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,38,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,39,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,40,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,41,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,42,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,43,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,44,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,45,Static,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,46,Static-MS120-2,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,47,Wireless AP,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,48,Wireless AP,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,49,,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,50,,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,51,,True
+BCMH,Telco Rm Stack 1-4,Q2QW-5EHG-ZMP6,52,,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,4,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,6,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,8,7009 and RX-ERScript,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,9,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,10,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,15,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,18,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,19,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,21,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,23,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,27,ShoreTel,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,33,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,36,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,38,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,39,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,40,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,41,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,42,ER Triage,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,45,Wireless AP,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,46,Static,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,48,Wireless AP,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,49,,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,50,,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,51,,True
+BCMH,Radiology 1 Stack 1-3,Q2QW-5FE2-CB9Z,52,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,1,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,2,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,3,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,4,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,5,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,6,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,7,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,8,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,9,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,10,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,11,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,12,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,25,Shortel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,26,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,27,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,28,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,29,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,30,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,33,Shoretel,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,36,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,38,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,39,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,40,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,41,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,42,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,43,Static,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,44,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,47,Wireless AP,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,50,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,51,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,52,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,53,,True
+BCMH,Infusion Center,Q2QW-5FSZ-948A,54,,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,3,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,4,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,5,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,7,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,9,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,10,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,11,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,12,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,13,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,14,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,15,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,16,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,17,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,18,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,19,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,20,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,21,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,22,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,23,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,24,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,26,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,27,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,28,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,30,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,32,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,33,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,34,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,35,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,36,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,37,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,38,OPC2 Admit Printer,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,39,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,40,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,41,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,42,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,43,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,44,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,45,Static,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,47,Wireless,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,48,Wireless,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,49,,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,50,,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,51,,True
+BCMH,2nd Floor Stack 1 - 4,Q2QW-5J6M-V8LW,52,,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,1,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,2,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,4,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,5,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,6,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,7,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,8,ShoreTel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,9,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,10,Camera,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,11,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,13,UNV Temp Sensor,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,14,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,15,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,16,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,17,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,18,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,19,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,20,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,21,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,22,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,23,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,24,Shortel,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,25,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,26,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,27,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,28,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,29,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,30,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,31,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,32,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,33,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,34,Data 130,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,35,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,36,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,37,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,38,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,39,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,40,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,41,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,42,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,43,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,44,WIFI Setup,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,46,Shortel Test,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,48,Wireless AP,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,50,,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,51,,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,52,,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,53,,True
+BCMH,Education Basement,Q2QW-5LHL-U2J9,54,,True
+BCMH,spare,Q2QW-5LHQ-36HT,1,,True
+BCMH,spare,Q2QW-5LHQ-36HT,2,,True
+BCMH,spare,Q2QW-5LHQ-36HT,3,,True
+BCMH,spare,Q2QW-5LHQ-36HT,4,,True
+BCMH,spare,Q2QW-5LHQ-36HT,5,,True
+BCMH,spare,Q2QW-5LHQ-36HT,6,,True
+BCMH,spare,Q2QW-5LHQ-36HT,7,,True
+BCMH,spare,Q2QW-5LHQ-36HT,8,,True
+BCMH,spare,Q2QW-5LHQ-36HT,9,,True
+BCMH,spare,Q2QW-5LHQ-36HT,10,,True
+BCMH,spare,Q2QW-5LHQ-36HT,11,,True
+BCMH,spare,Q2QW-5LHQ-36HT,12,,True
+BCMH,spare,Q2QW-5LHQ-36HT,13,,True
+BCMH,spare,Q2QW-5LHQ-36HT,14,,True
+BCMH,spare,Q2QW-5LHQ-36HT,15,,True
+BCMH,spare,Q2QW-5LHQ-36HT,16,,True
+BCMH,spare,Q2QW-5LHQ-36HT,17,,True
+BCMH,spare,Q2QW-5LHQ-36HT,18,,True
+BCMH,spare,Q2QW-5LHQ-36HT,19,,True
+BCMH,spare,Q2QW-5LHQ-36HT,20,,True
+BCMH,spare,Q2QW-5LHQ-36HT,21,,True
+BCMH,spare,Q2QW-5LHQ-36HT,22,,True
+BCMH,spare,Q2QW-5LHQ-36HT,23,,True
+BCMH,spare,Q2QW-5LHQ-36HT,24,,True
+BCMH,spare,Q2QW-5LHQ-36HT,25,,True
+BCMH,spare,Q2QW-5LHQ-36HT,26,,True
+BCMH,spare,Q2QW-5LHQ-36HT,27,,True
+BCMH,spare,Q2QW-5LHQ-36HT,28,,True
+BCMH,spare,Q2QW-5LHQ-36HT,29,,True
+BCMH,spare,Q2QW-5LHQ-36HT,30,,True
+BCMH,spare,Q2QW-5LHQ-36HT,31,,True
+BCMH,spare,Q2QW-5LHQ-36HT,32,,True
+BCMH,spare,Q2QW-5LHQ-36HT,33,,True
+BCMH,spare,Q2QW-5LHQ-36HT,34,,True
+BCMH,spare,Q2QW-5LHQ-36HT,35,,True
+BCMH,spare,Q2QW-5LHQ-36HT,36,,True
+BCMH,spare,Q2QW-5LHQ-36HT,37,,True
+BCMH,spare,Q2QW-5LHQ-36HT,38,,True
+BCMH,spare,Q2QW-5LHQ-36HT,39,,True
+BCMH,spare,Q2QW-5LHQ-36HT,40,,True
+BCMH,spare,Q2QW-5LHQ-36HT,41,,True
+BCMH,spare,Q2QW-5LHQ-36HT,42,,True
+BCMH,spare,Q2QW-5LHQ-36HT,43,,True
+BCMH,spare,Q2QW-5LHQ-36HT,44,,True
+BCMH,spare,Q2QW-5LHQ-36HT,45,,True
+BCMH,spare,Q2QW-5LHQ-36HT,46,,True
+BCMH,spare,Q2QW-5LHQ-36HT,47,,True
+BCMH,spare,Q2QW-5LHQ-36HT,48,,True
+BCMH,spare,Q2QW-5LHQ-36HT,49,,True
+BCMH,spare,Q2QW-5LHQ-36HT,50,,True
+BCMH,spare,Q2QW-5LHQ-36HT,51,,True
+BCMH,spare,Q2QW-5LHQ-36HT,52,,True
+BCMH,spare,Q2QW-5LHQ-36HT,53,,True
+BCMH,spare,Q2QW-5LHQ-36HT,54,,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,1,Pyxis ICU,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,2,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,3,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,4,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,5,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,8,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,9,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,10,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,11,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,12,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,13,Static-Printer,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,15,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,16,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,17,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,18,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,19,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,20,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,21,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,23,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,25,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,26,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,27,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,28,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,30,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,32,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,33,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,34,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,35,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,36,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,37,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,38,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,39,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,41,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,42,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,43,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,45,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,46,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,47,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,48,Data 130,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,49,,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,50,,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,51,,True
+BCMH,2nd Floor Stack 1 - 6,Q2QW-5LPS-3XUS,52,,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,3,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,4,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,5,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,6,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,7,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,10,Shortel,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,13,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,14,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,16,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,18,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,20,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,21,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,22,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,23,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,24,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,25,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,26,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,27,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,28,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,29,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,30,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,31,Daniel Z7-55,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,33,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,34,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,35,Data 130,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,43,Him_1,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,46,Static,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,48,Wireless AP,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,49,,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,50,,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,51,,True
+BCMH,Telco Rm Stack 2-3,Q2QW-5LPT-EC8M,52,,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,1,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,5,Pharmacy Zebra TLP 2844,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,10,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,14,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,15,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,18,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,19,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,20,Shortel,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,23,Ultrasound Modalities - Stress Lab,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,26,AirTame,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,32,Data 130,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,33,Data 130,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,34,Data 130,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,39,Dr. Bissing MFP,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,40,,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,48,WAPs,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,50,,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,51,,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,52,,True
+BCMH,Telco Rm Stack 2-1,Q2QW-5LTN-LEBD,54,,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,1,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,2,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,3,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,4,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,5,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,7,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,9,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,12,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,14,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,15,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,17,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,18,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,19,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,20,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,21,ShoreTel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,24,Data,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,27,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,29,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,30,Baxter pumps setup,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,33,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,34,Voice and Data,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,35,Shoretel,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,38,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,39,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,40,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,41,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,42,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,43,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,44,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,45,Static,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,49,,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,50,,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,51,,True
+BCMH,2nd Floor Stack 1 - 2,Q2QW-5M8E-LSDF,52,,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,4,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,6,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,8,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,10,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,12,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,14,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,16,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,18,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,20,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,22,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,23,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,24,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,25,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,26,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,27,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,28,Shoretel,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,33,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,34,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,35,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,36,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,38,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,39,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,40,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,41,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,42,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,43,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,44,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,45,Static,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,48,Wireless AP,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,50,,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,51,,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,52,,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,53,,True
+BCMH,OPC Stack 1-1,Q2QW-6KQ5-9G2G,54,,True

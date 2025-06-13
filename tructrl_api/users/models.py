@@ -21,6 +21,7 @@ from ulid import ulid
 
 # User
 class User(SQLModel, table=True):
+    __tablename__ = "user"
     id: str = Field(default_factory=lambda: str(ulid.new()), primary_key=True)
     email: str = Field(index=True, unique=True)
     hashed_password: str

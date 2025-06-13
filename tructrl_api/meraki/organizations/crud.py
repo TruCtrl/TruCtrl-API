@@ -14,13 +14,14 @@ from sqlmodel import Session, select
 
 # Project Imports
 
-# Module Imports
+# Package Imports
 from .models import Organization
 
 # List
-def list(session: Session) -> List[Organization]:
+def list_all(session: Session) -> list[Organization]:
     statement = select(Organization)
-    return list(session.exec(statement))
+    result = session.exec(statement)
+    return list(result)
 
 # Create
 def create(session: Session, org: Organization) -> Organization:
